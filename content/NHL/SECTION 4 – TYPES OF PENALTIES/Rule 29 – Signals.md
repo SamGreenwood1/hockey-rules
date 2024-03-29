@@ -1,0 +1,36 @@
+---
+title: "Signals"
+linkTitle: "Rule 29 – Signals"
+weight: 8
+# description: > Keeping the Docsy theme up to date.
+---
+
+| Rule #: Name | Signal Description | Picture |
+| ---- | ---- | ---- |
+| 29.1: Boarding | Striking the clenched fist of one hand into the open palm of the opposite hand in front of the chest. | ![[Pasted image 20240209165613.png]] |
+| 29.2: Butt-ending | Moving the forearm, fist closed, under the forearm of the other hand held palm down. | ![[Pasted image 20240209165906.png]] |
+| 29.3: Charging | Rotating clenched fists around one another in front of the chest. | ![[Pasted image 20240209170100.png]] |
+| 29.4: Checking from behind | A forward motion of both arms, with the palms of the hands open and facing away from the body, fully extended from the chest at shoulder level. | ![[Pasted image 20240209170527.png]] |
+| 29.5: Clipping | Striking leg with either hand behind the knee, keeping both skates on the ice. | ![[Pasted image 20240209170602.png]] |
+| 29.6: Cross-checking | A forward and backward motion of the arms with both fists clenched, extending from the chest for a distance of about one foot. | ![[Pasted image 20240209170739.png]] |
+| 29.7/29.8: Delayed offside/Penalty | Non-whistle arm fully extended above the head. Referees us this signal for delayed penalty. (To nullify a delayed off-side, the Linesperson shall drop the arm to the side.) | ![[Pasted image 20240209170946.png]] |
+| 29.9: Delay of Game | The non-whistle hand, palm open, is placed across the chest and then fully extended directly in front of the body. | ![[Pasted image 20240209171150.png]] |
+| 29.10: Elbowing | Tapping either elbow with the opposite hand. | ![[Pasted image 20240212135110.png]] |
+| 29.11: Fighting | Clenched fists side-by-side in front of the chest. | ![[Pasted image 20240212135147.png]] |
+| 29.12: Goal scored | d A single point directed at the goal in which the puck legally entered. | ![[Pasted image 20240212135539.png]] |
+| 29.13: Hand Pass | With the palm open and facing forward, a pushing motion towards the front of the body once or twice to indicate the puck was moved ahead with the hand. | ![[Pasted image 20240212135658.png]] |
+| 29.14: Head-butting | No signal in NHL |  |
+| 29.15: High-sticking | Holding both fists clenched, one slightly above the other (as if holding a stick) at the height of the forehead. | ![[Pasted image 20240212140120.png]] |
+| 29.16: Holding | Clasping either wrist with the other hand in front of the chest. | ![[Pasted image 20240212140216.png]] |
+| 29.17: Holding the stick | Two stage signal involving the holding signal (29.16) followed by a signal indicating you are holding onto a stick with two hands in a normal manner. | ![[Pasted image 20240212140437.png]] |
+| 29.18: Hooking | A tugging motion with both arms as if pulling something from in front toward the stomach. | ![[Pasted image 20240212140925.png]] |
+| Icing | (a) The back Linesperson signals a possible icing by fully extending either arm over his head. The arm should remain raised until the front Linesperson either blows the whistle to indicate an icing or until the icing is washed out | ![[Pasted image 20240212141029.png]] |
+| ^^ | (b) Once the icing has been completed, the back Linesperson will then point to the appropriate face-off spot and skate to it, turning backwards somewhere near the blue line and crossing his arms across his chest to indicate icing. | ![[Pasted image 20240212141221.png]] |
+| 29.20: Illegal check to the head | Patting flat (open palm) of the non-whistle hand on this side of the head. | ![[Pasted image 20240212141322.png]] |
+| 29.21: Interference | Crossing arms stationary in front of the chest in an “X” formation. | ![[Pasted image 20240212141430.png]] |
+| 29.22: Kicking | No signal in NHL |  |
+| 29.23: Kneeing | Slapping either knee with the palm of the hand, while keeping both skates on the ice. | ![[Pasted image 20240212141614.png]] |
+| 29.24: Match penalty | No signal in NHL |  |
+| 29.25: Misconduct | Both hands on hips | ![[Pasted image 20240212142000.png]] |
+| 29.26: Penalty shot | Non-whistle arm fully extended pointing to the center ice face-off spot. | ![[Pasted image 20240212142137.png]] |
+|  |  |  |
