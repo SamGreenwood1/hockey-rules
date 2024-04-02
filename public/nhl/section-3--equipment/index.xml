@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hockey Rules – Section 3: Equipment</title>
-    <link>/nhl/section-3--equipment/</link>
+    <link>//localhost:1313/nhl/section-3--equipment/</link>
     <description>Recent content in Section 3: Equipment on Hockey Rules</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	  <atom:link href="/nhl/section-3--equipment/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="//localhost:1313/nhl/section-3--equipment/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>Nhl: Sticks</title>
-      <link>/nhl/section-3--equipment/rule-10--sticks/</link>
+      <link>//localhost:1313/nhl/section-3--equipment/rule-10--sticks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/nhl/section-3--equipment/rule-10--sticks/</guid>
+      <guid>//localhost:1313/nhl/section-3--equipment/rule-10--sticks/</guid>
       <description>
         
         
@@ -77,10 +77,10 @@ subject to the fines and suspensions outlined in 10.5.&lt;/p&gt;
     
     <item>
       <title>Nhl: Illegal Equipment</title>
-      <link>/nhl/section-3--equipment/rule-12--illegal-equipment/</link>
+      <link>//localhost:1313/nhl/section-3--equipment/rule-12--illegal-equipment/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/nhl/section-3--equipment/rule-12--illegal-equipment/</guid>
+      <guid>//localhost:1313/nhl/section-3--equipment/rule-12--illegal-equipment/</guid>
       <description>
         
         
@@ -97,10 +97,10 @@ When a complaint is made under this rule, and such complaint is not sustained, a
     
     <item>
       <title>Nhl: Puck</title>
-      <link>/nhl/section-3--equipment/rule-13---puck/</link>
+      <link>//localhost:1313/nhl/section-3--equipment/rule-13---puck/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/nhl/section-3--equipment/rule-13---puck/</guid>
+      <guid>//localhost:1313/nhl/section-3--equipment/rule-13---puck/</guid>
       <description>
         
         
@@ -113,10 +113,10 @@ When a complaint is made under this rule, and such complaint is not sustained, a
     
     <item>
       <title>Nhl: Adjustment to Clothing or Equipment</title>
-      <link>/nhl/section-3--equipment/rule-14--adjustment-to-clothing-or-equipment/</link>
+      <link>//localhost:1313/nhl/section-3--equipment/rule-14--adjustment-to-clothing-or-equipment/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/nhl/section-3--equipment/rule-14--adjustment-to-clothing-or-equipment/</guid>
+      <guid>//localhost:1313/nhl/section-3--equipment/rule-14--adjustment-to-clothing-or-equipment/</guid>
       <description>
         
         

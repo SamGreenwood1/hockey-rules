@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hockey Rules – Section 2: Teams</title>
-    <link>/nhl/section-2---teams/</link>
+    <link>//localhost:1313/nhl/section-2---teams/</link>
     <description>Recent content in Section 2: Teams on Hockey Rules</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	  <atom:link href="/nhl/section-2---teams/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="//localhost:1313/nhl/section-2---teams/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>Nhl: Captain and Alternate Captain</title>
-      <link>/nhl/section-2---teams/rule-6--captain-and-alternate-captains/</link>
+      <link>//localhost:1313/nhl/section-2---teams/rule-6--captain-and-alternate-captains/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/nhl/section-2---teams/rule-6--captain-and-alternate-captains/</guid>
+      <guid>//localhost:1313/nhl/section-2---teams/rule-6--captain-and-alternate-captains/</guid>
       <description>
         
         
@@ -36,10 +36,10 @@ Only when the Captain is not in uniform (or if there is no Captain), the Coach s
     
     <item>
       <title>Nhl: Starting Line-up</title>
-      <link>/nhl/section-2---teams/rule-7--starting-line-up/</link>
+      <link>//localhost:1313/nhl/section-2---teams/rule-7--starting-line-up/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/nhl/section-2---teams/rule-7--starting-line-up/</guid>
+      <guid>//localhost:1313/nhl/section-2---teams/rule-7--starting-line-up/</guid>
       <description>
         
         
@@ -54,10 +54,10 @@ In the event a team scores on the first shift of the game, and it is brought to 
     
     <item>
       <title>Nhl: Injured Players</title>
-      <link>/nhl/section-2---teams/rule-8--injured-players/</link>
+      <link>//localhost:1313/nhl/section-2---teams/rule-8--injured-players/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/nhl/section-2---teams/rule-8--injured-players/</guid>
+      <guid>//localhost:1313/nhl/section-2---teams/rule-8--injured-players/</guid>
       <description>
         
         

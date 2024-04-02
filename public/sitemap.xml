@@ -2,70 +2,70 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/nhl/section-1--playing-area/</loc>
+    <loc>//localhost:1313/nhl/section-1--playing-area/</loc>
   </url><url>
-    <loc>/nhl/section-2---teams/</loc>
+    <loc>//localhost:1313/nhl/section-2---teams/</loc>
   </url><url>
-    <loc>/nhl/section-3--equipment/</loc>
+    <loc>//localhost:1313/nhl/section-3--equipment/</loc>
   </url><url>
-    <loc>/nhl/section-4--types-of-penalties/</loc>
+    <loc>//localhost:1313/nhl/section-4--types-of-penalties/</loc>
   </url><url>
-    <loc>/nhl/section-1--playing-area/rule-1---rink/</loc>
+    <loc>//localhost:1313/nhl/section-1--playing-area/rule-1---rink/</loc>
   </url><url>
-    <loc>/nhl/section-3--equipment/rule-10--sticks/</loc>
+    <loc>//localhost:1313/nhl/section-3--equipment/rule-10--sticks/</loc>
   </url><url>
-    <loc>/nhl/section-3--equipment/rule-12--illegal-equipment/</loc>
+    <loc>//localhost:1313/nhl/section-3--equipment/rule-12--illegal-equipment/</loc>
   </url><url>
-    <loc>/nhl/section-3--equipment/rule-13---puck/</loc>
+    <loc>//localhost:1313/nhl/section-3--equipment/rule-13---puck/</loc>
   </url><url>
-    <loc>/nhl/section-3--equipment/rule-14--adjustment-to-clothing-or-equipment/</loc>
+    <loc>//localhost:1313/nhl/section-3--equipment/rule-14--adjustment-to-clothing-or-equipment/</loc>
   </url><url>
-    <loc>/nhl/section-4--types-of-penalties/rule-15--calling-of-penalties/</loc>
+    <loc>//localhost:1313/nhl/section-4--types-of-penalties/rule-15--calling-of-penalties/</loc>
   </url><url>
-    <loc>/nhl/section-4--types-of-penalties/rule-16--minor-penalties/</loc>
+    <loc>//localhost:1313/nhl/section-4--types-of-penalties/rule-16--minor-penalties/</loc>
   </url><url>
-    <loc>/nhl/section-4--types-of-penalties/rule-17--bench-minor-penalties/</loc>
+    <loc>//localhost:1313/nhl/section-4--types-of-penalties/rule-17--bench-minor-penalties/</loc>
   </url><url>
-    <loc>/nhl/section-4--types-of-penalties/rule-18--double-minor-penalties/</loc>
+    <loc>//localhost:1313/nhl/section-4--types-of-penalties/rule-18--double-minor-penalties/</loc>
   </url><url>
-    <loc>/nhl/section-4--types-of-penalties/rule-19--coincidental-penalties/</loc>
+    <loc>//localhost:1313/nhl/section-4--types-of-penalties/rule-19--coincidental-penalties/</loc>
   </url><url>
-    <loc>/nhl/section-1--playing-area/rule-2--goal-posts-and-nets/</loc>
+    <loc>//localhost:1313/nhl/section-1--playing-area/rule-2--goal-posts-and-nets/</loc>
   </url><url>
-    <loc>/nhl/section-4--types-of-penalties/rule-20--major-penalties/</loc>
+    <loc>//localhost:1313/nhl/section-4--types-of-penalties/rule-20--major-penalties/</loc>
   </url><url>
-    <loc>/nhl/section-4--types-of-penalties/rule-21--match-penalties/</loc>
+    <loc>//localhost:1313/nhl/section-4--types-of-penalties/rule-21--match-penalties/</loc>
   </url><url>
-    <loc>/nhl/section-4--types-of-penalties/rule-22--misconduct-penalties/</loc>
+    <loc>//localhost:1313/nhl/section-4--types-of-penalties/rule-22--misconduct-penalties/</loc>
   </url><url>
-    <loc>/nhl/section-4--types-of-penalties/rule-23--game-misconduct-penalties/</loc>
+    <loc>//localhost:1313/nhl/section-4--types-of-penalties/rule-23--game-misconduct-penalties/</loc>
   </url><url>
-    <loc>/nhl/section-4--types-of-penalties/rule-24--penalty-shot/</loc>
+    <loc>//localhost:1313/nhl/section-4--types-of-penalties/rule-24--penalty-shot/</loc>
   </url><url>
-    <loc>/nhl/section-4--types-of-penalties/rule-25--awarded-goals/</loc>
+    <loc>//localhost:1313/nhl/section-4--types-of-penalties/rule-25--awarded-goals/</loc>
   </url><url>
-    <loc>/nhl/section-4--types-of-penalties/rule-26--delayed-penalties/</loc>
+    <loc>//localhost:1313/nhl/section-4--types-of-penalties/rule-26--delayed-penalties/</loc>
   </url><url>
-    <loc>/nhl/section-4--types-of-penalties/rule-27--goalkeepers-penalties/</loc>
+    <loc>//localhost:1313/nhl/section-4--types-of-penalties/rule-27--goalkeepers-penalties/</loc>
   </url><url>
-    <loc>/nhl/section-4--types-of-penalties/rule-28--supplementary-discipline/</loc>
+    <loc>//localhost:1313/nhl/section-4--types-of-penalties/rule-28--supplementary-discipline/</loc>
   </url><url>
-    <loc>/nhl/section-4--types-of-penalties/rule-29--signals/</loc>
+    <loc>//localhost:1313/nhl/section-4--types-of-penalties/rule-29--signals/</loc>
   </url><url>
-    <loc>/nhl/section-1--playing-area/rule-3--benches/</loc>
+    <loc>//localhost:1313/nhl/section-1--playing-area/rule-3--benches/</loc>
   </url><url>
-    <loc>/nhl/section-2---teams/rule-6--captain-and-alternate-captains/</loc>
+    <loc>//localhost:1313/nhl/section-2---teams/rule-6--captain-and-alternate-captains/</loc>
   </url><url>
-    <loc>/nhl/section-2---teams/rule-7--starting-line-up/</loc>
+    <loc>//localhost:1313/nhl/section-2---teams/rule-7--starting-line-up/</loc>
   </url><url>
-    <loc>/nhl/section-2---teams/rule-8--injured-players/</loc>
+    <loc>//localhost:1313/nhl/section-2---teams/rule-8--injured-players/</loc>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>//localhost:1313/categories/</loc>
   </url><url>
-    <loc>/</loc>
+    <loc>//localhost:1313/</loc>
   </url><url>
-    <loc>/nhl/</loc>
+    <loc>//localhost:1313/nhl/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>//localhost:1313/tags/</loc>
   </url>
 </urlset>

@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hockey Rules – Welcome to Docsy</title>
-    <link>/nhl/</link>
+    <link>//localhost:1313/nhl/</link>
     <description>Recent content in Welcome to Docsy on Hockey Rules</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	  <atom:link href="/nhl/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="//localhost:1313/nhl/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>Nhl: Rink</title>
-      <link>/nhl/section-1--playing-area/rule-1---rink/</link>
+      <link>//localhost:1313/nhl/section-1--playing-area/rule-1---rink/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/nhl/section-1--playing-area/rule-1---rink/</guid>
+      <guid>//localhost:1313/nhl/section-1--playing-area/rule-1---rink/</guid>
       <description>
         
         
@@ -56,10 +56,10 @@ On the ice immediately in front of the Penalty Timekeeper’s seat there shall b
     
     <item>
       <title>Nhl: Sticks</title>
-      <link>/nhl/section-3--equipment/rule-10--sticks/</link>
+      <link>//localhost:1313/nhl/section-3--equipment/rule-10--sticks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/nhl/section-3--equipment/rule-10--sticks/</guid>
+      <guid>//localhost:1313/nhl/section-3--equipment/rule-10--sticks/</guid>
       <description>
         
         
@@ -117,10 +117,10 @@ subject to the fines and suspensions outlined in 10.5.&lt;/p&gt;
     
     <item>
       <title>Nhl: Illegal Equipment</title>
-      <link>/nhl/section-3--equipment/rule-12--illegal-equipment/</link>
+      <link>//localhost:1313/nhl/section-3--equipment/rule-12--illegal-equipment/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/nhl/section-3--equipment/rule-12--illegal-equipment/</guid>
+      <guid>//localhost:1313/nhl/section-3--equipment/rule-12--illegal-equipment/</guid>
       <description>
         
         
@@ -137,10 +137,10 @@ When a complaint is made under this rule, and such complaint is not sustained, a
     
     <item>
       <title>Nhl: Puck</title>
-      <link>/nhl/section-3--equipment/rule-13---puck/</link>
+      <link>//localhost:1313/nhl/section-3--equipment/rule-13---puck/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/nhl/section-3--equipment/rule-13---puck/</guid>
+      <guid>//localhost:1313/nhl/section-3--equipment/rule-13---puck/</guid>
       <description>
         
         
@@ -153,10 +153,10 @@ When a complaint is made under this rule, and such complaint is not sustained, a
     
     <item>
       <title>Nhl: Adjustment to Clothing or Equipment</title>
-      <link>/nhl/section-3--equipment/rule-14--adjustment-to-clothing-or-equipment/</link>
+      <link>//localhost:1313/nhl/section-3--equipment/rule-14--adjustment-to-clothing-or-equipment/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/nhl/section-3--equipment/rule-14--adjustment-to-clothing-or-equipment/</guid>
+      <guid>//localhost:1313/nhl/section-3--equipment/rule-14--adjustment-to-clothing-or-equipment/</guid>
       <description>
         
         
@@ -169,10 +169,10 @@ No delay shall be permitted for the repair or adjustment of goalkeeper’s equip
     
     <item>
       <title>Nhl: Calling of Penalties</title>
-      <link>/nhl/section-4--types-of-penalties/rule-15--calling-of-penalties/</link>
+      <link>//localhost:1313/nhl/section-4--types-of-penalties/rule-15--calling-of-penalties/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/nhl/section-4--types-of-penalties/rule-15--calling-of-penalties/</guid>
+      <guid>//localhost:1313/nhl/section-4--types-of-penalties/rule-15--calling-of-penalties/</guid>
       <description>
         
         
@@ -198,10 +198,10 @@ already being served shall automatically terminate under Rule 16 – Minor Penal
     
     <item>
       <title>Nhl: Minor Penalties</title>
-      <link>/nhl/section-4--types-of-penalties/rule-16--minor-penalties/</link>
+      <link>//localhost:1313/nhl/section-4--types-of-penalties/rule-16--minor-penalties/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/nhl/section-4--types-of-penalties/rule-16--minor-penalties/</guid>
+      <guid>//localhost:1313/nhl/section-4--types-of-penalties/rule-16--minor-penalties/</guid>
       <description>
         
         
@@ -222,10 +222,10 @@ When the minor penalties of two players of the same team terminate at the same t
     
     <item>
       <title>Nhl: Bench Minor Penalties</title>
-      <link>/nhl/section-4--types-of-penalties/rule-17--bench-minor-penalties/</link>
+      <link>//localhost:1313/nhl/section-4--types-of-penalties/rule-17--bench-minor-penalties/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/nhl/section-4--types-of-penalties/rule-17--bench-minor-penalties/</guid>
+      <guid>//localhost:1313/nhl/section-4--types-of-penalties/rule-17--bench-minor-penalties/</guid>
       <description>
         
         
@@ -238,10 +238,10 @@ When the minor penalties of two players of the same team terminate at the same t
     
     <item>
       <title>Nhl: Double-minor Penalties</title>
-      <link>/nhl/section-4--types-of-penalties/rule-18--double-minor-penalties/</link>
+      <link>//localhost:1313/nhl/section-4--types-of-penalties/rule-18--double-minor-penalties/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/nhl/section-4--types-of-penalties/rule-18--double-minor-penalties/</guid>
+      <guid>//localhost:1313/nhl/section-4--types-of-penalties/rule-18--double-minor-penalties/</guid>
       <description>
         
         
@@ -255,10 +255,10 @@ When a double-minor penalty has been signaled by the Referee and the non-offendi
     
     <item>
       <title>Nhl: Coincidental Penalties</title>
-      <link>/nhl/section-4--types-of-penalties/rule-19--coincidental-penalties/</link>
+      <link>//localhost:1313/nhl/section-4--types-of-penalties/rule-19--coincidental-penalties/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/nhl/section-4--types-of-penalties/rule-19--coincidental-penalties/</guid>
+      <guid>//localhost:1313/nhl/section-4--types-of-penalties/rule-19--coincidental-penalties/</guid>
       <description>
         
         
@@ -280,10 +280,10 @@ Refer to Reference Tables - Table 15 – Coincidental Penalties on page 151.&lt;
     
     <item>
       <title>Nhl: Goal Posts and Nets</title>
-      <link>/nhl/section-1--playing-area/rule-2--goal-posts-and-nets/</link>
+      <link>//localhost:1313/nhl/section-1--playing-area/rule-2--goal-posts-and-nets/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/nhl/section-1--playing-area/rule-2--goal-posts-and-nets/</guid>
+      <guid>//localhost:1313/nhl/section-1--playing-area/rule-2--goal-posts-and-nets/</guid>
       <description>
         
         
@@ -300,10 +300,10 @@ The thin nylon mesh netting on the top of the goal frame shall be white 12 ply, 
     
     <item>
       <title>Nhl: Major Penalties</title>
-      <link>/nhl/section-4--types-of-penalties/rule-20--major-penalties/</link>
+      <link>//localhost:1313/nhl/section-4--types-of-penalties/rule-20--major-penalties/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/nhl/section-4--types-of-penalties/rule-20--major-penalties/</guid>
+      <guid>//localhost:1313/nhl/section-4--types-of-penalties/rule-20--major-penalties/</guid>
       <description>
         
         
@@ -331,10 +331,10 @@ When a player has been assessed a major penalty for any of the infractions liste
     
     <item>
       <title>Nhl: Match Penalties</title>
-      <link>/nhl/section-4--types-of-penalties/rule-21--match-penalties/</link>
+      <link>//localhost:1313/nhl/section-4--types-of-penalties/rule-21--match-penalties/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/nhl/section-4--types-of-penalties/rule-21--match-penalties/</guid>
+      <guid>//localhost:1313/nhl/section-4--types-of-penalties/rule-21--match-penalties/</guid>
       <description>
         
         
@@ -360,10 +360,10 @@ Such reviews will be conducted exclusively by the Referee(s) on the ice in consu
     
     <item>
       <title>Nhl: Misconduct Penalties</title>
-      <link>/nhl/section-4--types-of-penalties/rule-22--misconduct-penalties/</link>
+      <link>//localhost:1313/nhl/section-4--types-of-penalties/rule-22--misconduct-penalties/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/nhl/section-4--types-of-penalties/rule-22--misconduct-penalties/</guid>
+      <guid>//localhost:1313/nhl/section-4--types-of-penalties/rule-22--misconduct-penalties/</guid>
       <description>
         
         
@@ -380,10 +380,10 @@ Such reviews will be conducted exclusively by the Referee(s) on the ice in consu
     
     <item>
       <title>Nhl: Game Misconduct Penalties</title>
-      <link>/nhl/section-4--types-of-penalties/rule-23--game-misconduct-penalties/</link>
+      <link>//localhost:1313/nhl/section-4--types-of-penalties/rule-23--game-misconduct-penalties/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/nhl/section-4--types-of-penalties/rule-23--game-misconduct-penalties/</guid>
+      <guid>//localhost:1313/nhl/section-4--types-of-penalties/rule-23--game-misconduct-penalties/</guid>
       <description>
         
         
@@ -567,10 +567,10 @@ In Playoff games, any player who incurs a total of two (2) game misconduct penal
     
     <item>
       <title>Nhl: Penalty Shot</title>
-      <link>/nhl/section-4--types-of-penalties/rule-24--penalty-shot/</link>
+      <link>//localhost:1313/nhl/section-4--types-of-penalties/rule-24--penalty-shot/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/nhl/section-4--types-of-penalties/rule-24--penalty-shot/</guid>
+      <guid>//localhost:1313/nhl/section-4--types-of-penalties/rule-24--penalty-shot/</guid>
       <description>
         
         
@@ -617,10 +617,10 @@ In Playoff games, any player who incurs a total of two (2) game misconduct penal
     
     <item>
       <title>Nhl: Awarded Goal</title>
-      <link>/nhl/section-4--types-of-penalties/rule-25--awarded-goals/</link>
+      <link>//localhost:1313/nhl/section-4--types-of-penalties/rule-25--awarded-goals/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/nhl/section-4--types-of-penalties/rule-25--awarded-goals/</guid>
+      <guid>//localhost:1313/nhl/section-4--types-of-penalties/rule-25--awarded-goals/</guid>
       <description>
         
         
@@ -634,10 +634,10 @@ In Playoff games, any player who incurs a total of two (2) game misconduct penal
     
     <item>
       <title>Nhl: Delayed Penalties</title>
-      <link>/nhl/section-4--types-of-penalties/rule-26--delayed-penalties/</link>
+      <link>//localhost:1313/nhl/section-4--types-of-penalties/rule-26--delayed-penalties/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/nhl/section-4--types-of-penalties/rule-26--delayed-penalties/</guid>
+      <guid>//localhost:1313/nhl/section-4--types-of-penalties/rule-26--delayed-penalties/</guid>
       <description>
         
         
@@ -657,10 +657,10 @@ has fully expired may return to the ice.&lt;/p&gt;
     
     <item>
       <title>Nhl: Goalkeeper’s Penalties</title>
-      <link>/nhl/section-4--types-of-penalties/rule-27--goalkeepers-penalties/</link>
+      <link>//localhost:1313/nhl/section-4--types-of-penalties/rule-27--goalkeepers-penalties/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/nhl/section-4--types-of-penalties/rule-27--goalkeepers-penalties/</guid>
+      <guid>//localhost:1313/nhl/section-4--types-of-penalties/rule-27--goalkeepers-penalties/</guid>
       <description>
         
         
@@ -683,10 +683,10 @@ has fully expired may return to the ice.&lt;/p&gt;
     
     <item>
       <title>Nhl: Supplementary Discipline</title>
-      <link>/nhl/section-4--types-of-penalties/rule-28--supplementary-discipline/</link>
+      <link>//localhost:1313/nhl/section-4--types-of-penalties/rule-28--supplementary-discipline/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/nhl/section-4--types-of-penalties/rule-28--supplementary-discipline/</guid>
+      <guid>//localhost:1313/nhl/section-4--types-of-penalties/rule-28--supplementary-discipline/</guid>
       <description>
         
         
@@ -699,10 +699,10 @@ has fully expired may return to the ice.&lt;/p&gt;
     
     <item>
       <title>Nhl: Signals</title>
-      <link>/nhl/section-4--types-of-penalties/rule-29--signals/</link>
+      <link>//localhost:1313/nhl/section-4--types-of-penalties/rule-29--signals/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/nhl/section-4--types-of-penalties/rule-29--signals/</guid>
+      <guid>//localhost:1313/nhl/section-4--types-of-penalties/rule-29--signals/</guid>
       <description>
         
         
@@ -858,10 +858,10 @@ has fully expired may return to the ice.&lt;/p&gt;
     
     <item>
       <title>Nhl: Benches</title>
-      <link>/nhl/section-1--playing-area/rule-3--benches/</link>
+      <link>//localhost:1313/nhl/section-1--playing-area/rule-3--benches/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/nhl/section-1--playing-area/rule-3--benches/</guid>
+      <guid>//localhost:1313/nhl/section-1--playing-area/rule-3--benches/</guid>
       <description>
         
         
@@ -876,10 +876,10 @@ Each Penalty Bench shall be protected from the spectator area by means of a glas
     
     <item>
       <title>Nhl: Captain and Alternate Captain</title>
-      <link>/nhl/section-2---teams/rule-6--captain-and-alternate-captains/</link>
+      <link>//localhost:1313/nhl/section-2---teams/rule-6--captain-and-alternate-captains/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/nhl/section-2---teams/rule-6--captain-and-alternate-captains/</guid>
+      <guid>//localhost:1313/nhl/section-2---teams/rule-6--captain-and-alternate-captains/</guid>
       <description>
         
         
@@ -896,10 +896,10 @@ Only when the Captain is not in uniform (or if there is no Captain), the Coach s
     
     <item>
       <title>Nhl: Starting Line-up</title>
-      <link>/nhl/section-2---teams/rule-7--starting-line-up/</link>
+      <link>//localhost:1313/nhl/section-2---teams/rule-7--starting-line-up/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/nhl/section-2---teams/rule-7--starting-line-up/</guid>
+      <guid>//localhost:1313/nhl/section-2---teams/rule-7--starting-line-up/</guid>
       <description>
         
         
@@ -914,10 +914,10 @@ In the event a team scores on the first shift of the game, and it is brought to 
     
     <item>
       <title>Nhl: Injured Players</title>
-      <link>/nhl/section-2---teams/rule-8--injured-players/</link>
+      <link>//localhost:1313/nhl/section-2---teams/rule-8--injured-players/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/nhl/section-2---teams/rule-8--injured-players/</guid>
+      <guid>//localhost:1313/nhl/section-2---teams/rule-8--injured-players/</guid>
       <description>
         
         
